@@ -37,8 +37,8 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 ```
 /*
 Program to implement Linear and Polynomial Regression models for predicting car prices.
-Developed by: Aaliya Fathima M
-RegisterNumber: 212223230001
+Developed by: Abdullah R
+RegisterNumber: 212223230004
 */
 # Import necessary libraries
 import numpy as np
